@@ -1,0 +1,15 @@
+body{
+    background-color:beige;
+}
+.cabecera_inicial{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.parrafo_perfil{
+    font-size: 100px;
+}
+.BOX{
+    background-color: thistle;
+    width: 50px;
+    height: 45px;
+}
