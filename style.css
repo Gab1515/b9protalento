@@ -1,15 +1,12 @@
-body{
-    background-color:beige;
+.container-blanco{
+    background-color: gray;
+padding: 10px;
+    
 }
-.cabecera_inicial{
-    font-family: 'Times New Roman', Times, serif;
+.box1{
+    background-color: darkgray;
+            
 }
-
-.parrafo_perfil{
-    font-size: 100px;
-}
-.BOX{
-    background-color: thistle;
-    width: 50px;
-    height: 45px;
+.box2{
+    background-color: darkgray;
 }
